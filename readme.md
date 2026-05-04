@@ -1,11 +1,11 @@
-# *Boutique en ligne* :
+# _Boutique en ligne_ :
+
 ![Mon projet](./src/images/img-boutique1.png)
 ![Mon projet](./src/images/img-boutique2.png)
 
-
 ## Instructions pour exécuter le projet :
 
-Le dossier `tp5/` contient la structure du projet. Pour préparer et exécuter le TP, suivez les étapes ci-dessous.
+Le dossier `project/` contient la structure du projet. Pour préparer et exécuter le TP, suivez les étapes ci-dessous.
 
 1. **Ouvrez un terminal dans le dossier `../project$`** et installez les dépendances du projet :
 
@@ -34,7 +34,7 @@ http://localhost:9000/index.html
 ## 📁 Arborescence du projet :
 
 ```
-📁 project 
+📁 project
 ├─📁 src
 │ ├─📁 components
 │ │  ├─📝 app.component.jsx
